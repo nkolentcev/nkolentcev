@@ -7,6 +7,8 @@
 
 ## **go** 2023 [+]   
 j - 0  
+
+
     - st. library  
     - chi, echo, fiber  
     - gRPC - def, gen - uno, server stream, ckient strean, bidi. stream (+--)  
@@ -22,16 +24,22 @@ j - 0
 ## **js** 2024 [+]  
 t - ?
 
+
+
 ## **postgresql** 2018+  
 t - 0  
+
+
     - dev1 postgrespro  
 
 ## **1c** 2009 [-]  
 [m - 3]  
+
+
     - core  
     - quaery +/-  
     - БСП, СКД  
     - КД2 КД3 ED  
     - УХ, ERP, KA, УТ, УНФ  
 
-` in RU we TRUST
+` in **RU** we **TRUST**
