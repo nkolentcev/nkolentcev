@@ -19,6 +19,9 @@ j - 0
     - BLoC, Riverod  
     - Freezed, build_runner  
 
+## **kotlin** 2024 [+]
+t - ?
+
 ## **js** 2024 [+]  
 t - ?
 
