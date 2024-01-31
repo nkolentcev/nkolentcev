@@ -11,7 +11,7 @@ j - 0
 
     - st. library  
     - chi, echo, fiber  
-    - gRPC - def, gen - uno, server stream, ckient strean, bidi. stream (+--)  
+    - gRPC - def, gen - uno, server stream, client strean, bidi. stream (+--)  
     - GORM BeeGo  
 
 ## **flutter** 2023 [+]  
