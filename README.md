@@ -1,16 +1,48 @@
-### Hi there 👋
+# Nikolay Kolentcev, 45yo. 
 
-<!--
-**nkolentcev/nkolentcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[phone +79636676212](!tel:+79636676212)  
+[telegram @NNKolentcev](!https:\t.me\@NNKolentcev) 
+---
+[t = trainee] - [j = junior] - [m = middle] - [s = senior]  
 
-Here are some ideas to get you started:
+## **go** 2023 [+]   
+j - 0  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    - st. library  
+    - chi, echo, fiber  
+    - gRPC - def, gen - uno, server stream, ckient strean, bidi. stream (+--)  
+    - GORM BeeGo  
+
+## **flutter** 2023 [+]  
+j - 0
+
+    - core  
+    - BLoC, Riverod  
+    - Freezed, build_runner  
+
+## **kotlin** 2024 [+]
+t - ?
+
+## **js** 2024 [+]  
+t - ?
+
+
+
+## **postgresql** 2018+  
+t - 0  
+
+
+    - dev1 postgrespro  
+
+## **1c** 2009 [-]  
+[m - 3]  
+
+
+    - core  
+    - quaery +/-  
+    - БСП, СКД  
+    - КД2 КД3 ED  
+    - УХ, ERP, KA, УТ, УНФ  
+
+` in **RU** we **TRUST**
